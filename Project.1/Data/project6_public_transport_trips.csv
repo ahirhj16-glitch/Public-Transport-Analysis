@@ -1,0 +1,154 @@
+Trip_ID,Trip_Date,Departure_Time,Route,Origin,Destination,Vehicle_Type,Passenger_Type,Payment_Method,Trip_Duration_Min,Fare_INR,Passenger_Rating
+T0001,2026-02-04,06:14,R4,Market Road,Railway Colony,Bus,Student,UPI,31,20,4.0
+T0002,2026-01-20,19:14,R2,Market Road,Railway Colony,Bus,Regular,UPI,57,30,2.0
+T0003,2026-01-28,10:34,R1,Airport Road,Railway Colony,BRTS,Regular,Cash,54,15,5.0
+T0004,2026-01-03,05:52,R4,Central Station,Civil Hospital,BRTS,Senior,UPI,81,30,1.0
+T0005,2026-01-12,15:39,R1,Market Road,Bus Depot,Bus,Student,Cash,54,40,2.0
+T0006,2026-01-26,01:13,R5,Central Station,Riverfront,BRTS,Regular,Cash,57,10,4.0
+T0007,2026-02-05,22:03,R3,Central Station,Civil Hospital,Bus,Regular,UPI,95,20,5.0
+T0008,2026-01-04,23:16,R5,University,Railway Colony,BRTS,Senior,Pass,40,20,4.0
+T0009,2026-01-02,17:16,R1,Central Station,University,Bus,Daily Pass,Cash,77,5,4.0
+T0010,2026-01-02,02:55,R3,Railway Colony,Central Station,Bus,Regular,Cash,42,20,1.0
+T0011,2026-01-28,22:52,R4,Central Station,Riverfront,BRTS,Senior,Pass,92,20,1.0
+T0012,2026-01-05,19:54,R2,Riverfront,University,BRTS,Student,Pass,61,10,5.0
+T0013,2026-02-06,23:31,R1,Bus Depot,Railway Colony,Bus,Student,UPI,15,25,4.0
+T0014,2026-01-12,06:42,R4,Bus Depot,Central Station,Bus,Daily Pass,Pass,30,15,2.0
+T0015,2026-01-01,13:21,R2,Riverfront,Central Station,Bus,Regular,Cash,7,10,5.0
+T0016,2026-02-01,05:17,R4,University,Airport Road,BRTS,Regular,Cash,26,25,4.0
+T0017,2026-02-04,02:50,R3,Market Road,University,BRTS,Regular,Pass,26,10,2.0
+T0018,2026-01-31,22:08,R3,Airport Road,Railway Colony,BRTS,Senior,Card,79,35,5.0
+T0019,2026-01-27,15:53,R1,Airport Road,Railway Colony,Bus,Daily Pass,Card,11,35,2.0
+T0020,2026-01-28,12:01,R5,Civil Hospital,Riverfront,Bus,Daily Pass,Card,33,25,5.0
+T0021,2026-01-10,19:02,R1,Airport Road,University,Bus,Regular,Cash,17,35,2.0
+T0022,2026-01-18,11:52,R4,Riverfront,Airport Road,BRTS,Regular,Pass,94,30,5.0
+T0023,2026-01-30,13:44,R4,Market Road,Airport Road,Bus,Regular,Card,58,15,5.0
+T0024,2026-01-22,12:06,R5,,University,Bus,Senior,Card,23,30,2.0
+T0025,2026-02-07,22:06,R4,Airport Road,Central Station,BRTS,Regular,,80,40,2.0
+T0026,2026-02-02,03:53,R1,Airport Road,Bus Depot,BRTS,Student,Cash,61,20,5.0
+T0027,2026-01-11,20:20,R5,Market Road,Airport Road,BRTS,Student,Cash,9,5,2.0
+T0028,2026-02-06,03:54,R3,Bus Depot,Civil Hospital,Bus,Student,Cash,57,25,4.0
+T0029,2026-01-29,16:26,R4,University,Bus Depot,Bus,Regular,Card,55,-15,2.0
+T0030,2026-01-29,14:46,R5,Bus Depot,Railway Colony,Bus,Senior,Card,68,25,4.0
+T0031,2026-02-04,22:05,R2,Railway Colony,Bus Depot,BRTS,Senior,Card,8,30,2.0
+T0032,2026-01-28,03:16,R5,University,Bus Depot,Bus,Daily Pass,UPI,12,30,4.0
+T0033,2026-01-01,22:08,R2,Market Road,Bus Depot,Bus,Daily Pass,Cash,95,30,5.0
+T0034,2026-02-05,02:09,R5,Railway Colony,Market Road,BRTS,Daily Pass,Pass,37,5,5.0
+T0035,2026-01-19,08:28,R2,Market Road,Central Station,Bus,Student,Card,62,15,5.0
+T0036,2026-01-02,07:39,R3,,Civil Hospital,BRTS,Student,Card,68,25,4.0
+T0037,2026-01-18,23:56,R4,Airport Road,University,BRTS,Senior,Card,41,40,3.0
+T0038,2026-01-29,23:26,R3,Civil Hospital,Market Road,Bus,Senior,Card,40,25,4.0
+T0039,2026-01-27,13:01,R4,Civil Hospital,Airport Road,Bus,Student,Cash,90,10,1.0
+T0040,2026-01-28,22:54,R4,Bus Depot,Riverfront,BRTS,Regular,UPI,29,20,5.0
+T0041,2026-01-15,02:34,R2,Railway Colony,Bus Depot,Bus,Daily Pass,Cash,26,35,4.0
+T0042,2026-02-02,12:40,R5,Bus Depot,University,BRTS,Daily Pass,Cash,29,20,1.0
+T0043,2026-01-04,22:43,R5,Bus Depot,University,Bus,daily pass,Card,78,35,1.0
+T0044,2026-01-25,21:51,R3,Civil Hospital,Central Station,BRTS,Senior,Card,37,40,4.0
+T0045,2026-01-16,12:12,R4,Civil Hospital,University,Bus,Senior,Card,88,10,1.0
+T0046,2026-01-04,06:27,R2,Bus Depot,Central Station,BRTS,Daily Pass,Cash,16,30,5.0
+T0047,2026-01-20,06:25,R3,Riverfront,Civil Hospital,BRTS,Daily Pass,Cash,33,35,5.0
+T0048,2026-02-08,05:39,R1,Civil Hospital,Airport Road,Bus,Regular,Cash,79,35,3.0
+T0049,2026-01-07,22:01,R2,University,Bus Depot,Bus,Regular,Cash,90,15,5.0
+T0050,2026-01-14,19:18,R2,Airport Road,Civil Hospital,Bus,Senior,Cash,33,10,4.0
+T0051,2026-01-31,12:48,R3,Riverfront,Civil Hospital,Bus,Daily Pass,Card,77,5,5.0
+T0052,2026-02-06,02:34,R4,Civil Hospital,Central Station,BRTS,Student,Cash,55,25,3.0
+T0053,2026-01-03,17:53,R2,Bus Depot,Market Road,Bus,Student,Card,60,20,5.0
+T0054,2026-01-23,00:05,R1,Bus Depot,Riverfront,Bus,Student,Card,87,5,5.0
+T0055,2026-01-20,22:00,R5,University,Riverfront,BRTS,Senior,Cash,87,25,4.0
+T0056,2026-01-07,15:52,R3,Bus Depot,Civil Hospital,Bus,Student,UPI,90,40,
+T0057,2026-01-16,20:27,R4,University,Airport Road,BRTS,Regular,Cash,54,20,1.0
+T0058,2026-01-01,19:48,R5,Railway Colony,University,BRTS,Regular,Cash,69,30,4.0
+T0059,2026-01-14,06:13,R3,Market Road,University,brts ,Student,,11,35,3.0
+T0060,2026-01-02,04:15,R1,Bus Depot,Airport Road,BRTS,Daily Pass,Card,91,20,5.0
+T0061,2026-01-27,16:27,R1,Railway Colony,Riverfront,Bus,Student,UPI,44,20,4.0
+T0062,2026-02-01,23:18,R1,Bus Depot,Railway Colony,BRTS,Senior,Cash,66,25,2.0
+T0063,2026-01-02,10:00,R5,Market Road,Railway Colony,Bus,Daily Pass,Pass,11,20,4.0
+T0064,2026-01-29,17:39,R3,Airport Road,Civil Hospital,BRTS,Student,Pass,48,40,4.0
+T0065,2026-01-07,14:33,R5,University,Civil Hospital,Bus,daily pass,UPI,73,10,5.0
+T0066,2026-01-11,16:47,R5,Riverfront,Central Station,BRTS,Daily Pass,Card,21,-10,5.0
+T0067,2026-02-05,17:45,R1,Railway Colony,Riverfront,Bus,Senior,UPI,95,35,5.0
+T0068,2026-01-22,08:35,R4,Central Station,Bus Depot,BRTS,Student,UPI,92,30,3.0
+T0069,2026-01-10,19:23,R3,Railway Colony,University,Bus,Regular,Pass,42,25,4.0
+T0070,2026-02-04,15:20,R2,Airport Road,Riverfront,Bus,Daily Pass,,-3,20,2.0
+T0071,2026-01-27,22:27,R4,Market Road,Central Station,BRTS,Daily Pass,Cash,53,40,1.0
+T0072,2026-01-24,20:10,R5,Railway Colony,Civil Hospital,BRTS,Daily Pass,UPI,23,15,3.0
+T0073,2026-01-07,20:23,R4,Bus Depot,University,BRTS,Daily Pass,Card,6,35,5.0
+T0074,2026-02-08,06:59,R1,Civil Hospital,Market Road,BRTS,Senior,Pass,47,25,5.0
+T0075,2026-01-31,21:15,R5,Bus Depot,Riverfront,BRTS,Daily Pass,Card,81,20,4.0
+T0076,2026-02-01,11:29,R5,Railway Colony,Riverfront,Bus,Daily Pass,Pass,56,15,4.0
+T0077,2026-01-19,11:41,R3,,University,Bus,Senior,Pass,86,35,2.0
+T0078,2026-01-19,11:31,R5,Airport Road,Civil Hospital,Bus,Senior,Pass,33,10,5.0
+T0079,2026-01-03,05:39,R4,Bus Depot,Civil Hospital,Bus,Daily Pass,Pass,28,10,3.0
+T0080,2026-01-15,23:46,R1,Central Station,Bus Depot,BRTS,Regular,Cash,64,25,4.0
+T0081,2026-01-23,12:51,R4,Riverfront,Bus Depot,Bus,Student,UPI,20,40,4.0
+T0082,2026-02-04,01:03,R1,Bus Depot,Civil Hospital,Bus,Senior,Pass,53,35,4.0
+T0083,2026-02-09,11:21,R1,Civil Hospital,Central Station,Bus,Student,Card,unknown,25,3.0
+T0084,2026-02-06,17:06,R1,Riverfront,University,Bus,Regular,UPI,49,35,5.0
+T0085,2026-01-28,08:18,R2,Railway Colony,Riverfront,Bus,Regular,Pass,82,25,5.0
+T0086,2026-02-05,12:20,R1,Central Station,Bus Depot,Bus,Daily Pass,Cash,92,5,2.0
+T0087,2026-01-12,07:47,R1,,Market Road,Bus,Student,Card,87,10,5.0
+T0088,2026-01-17,15:26,R5,Airport Road,Riverfront,BRTS,Senior,Card,82,10,4.0
+T0089,2026-01-04,15:49,R2,Central Station,University,Bus,Daily Pass,Card,25,20,5.0
+T0090,2026-01-18,23:36, r4 ,Civil Hospital,Airport Road,BRTS,Student,UPI,87,25,2.0
+T0091,2026-02-09,16:16,R1,Airport Road,Riverfront,BRTS,Student,Card,81,10,5.0
+T0092,2026-01-27,09:36,R2,University,Airport Road,Bus,Daily Pass,UPI,71,10,5.0
+T0093,2026-01-19,01:09,R5,Bus Depot,Central Station,BRTS,Daily Pass,Card,8,30,5.0
+T0094,2026-01-14,05:57,R1,Riverfront,University,BRTS,daily pass,Card,53,10,2.0
+T0095,2026-01-28,11:23,R4,Civil Hospital,Riverfront,Bus,Daily Pass,Pass,65,5,2.0
+T0096,2026-01-22,07:28,R2,Railway Colony,Airport Road,brts ,Daily Pass,Pass,87,20,4.0
+T0097,2026-01-25,18:52,R5,Market Road,Bus Depot,Bus,Regular,Pass,23,35,5.0
+T0098,2026-01-01,14:03,R5,University,Airport Road,BRTS,Daily Pass,Card,40,25,2.0
+T0099,2026-01-10,14:57,R3,Airport Road,Railway Colony,Bus,Student,UPI,61,5,4.0
+T0100,2026-01-26,22:38,R4,Riverfront,University,Bus,Senior,Cash,53,15,5.0
+T0101,2026-01-07,16:43,R5,Railway Colony,Civil Hospital,Bus,Student,Card,-17,35,4.0
+T0102,2026-01-19,07:13,R5,Airport Road,Market Road,Bus,Student,Card,50,35,5.0
+T0103,2026-01-14,05:52,R5,Central Station,Bus Depot,Bus,Regular,Cash,26,20,4.0
+T0104,2026-01-15,23:57,R3,Riverfront,Airport Road,BRTS,Regular,UPI,94,15,4.0
+T0105,2026-02-08,16:59,R5,University,Railway Colony,BRTS,Student,Card,64,10,5.0
+T0106,2026-01-29,19:53,R4,Railway Colony,Civil Hospital,Bus,Senior,Pass,67,10,3.0
+T0107,2026-01-14,16:57,R4,Airport Road,Riverfront,Bus,Regular,UPI,19,35,2.0
+T0108,2026-02-01,09:55,R4,Riverfront,Civil Hospital,BRTS,Daily Pass,Cash,37,25,2.0
+T0109,2026-01-17,20:12,R2,Market Road,Airport Road,BRTS,Regular,UPI,50,35,5.0
+T0110,2026-01-01,12:16,R3,Airport Road,Railway Colony,BRTS,Daily Pass,Card,86,5,5.0
+T0111,2026-01-22,00:44,R1,Civil Hospital,Market Road,Bus,Regular,Pass,73,35,5.0
+T0112,2026-01-16,21:34,R3,Riverfront,Bus Depot,BRTS,Daily Pass,Pass,94,20,4.0
+T0113,2026-01-13,14:04,R1,University,Bus Depot,Bus,Senior,Cash,24,35,5.0
+T0114,2026-02-06,07:40,R1,Civil Hospital,University,BRTS,Student,Cash,33,5,1.0
+T0115,2026-02-05,19:35,R4,University,Market Road,BRTS,Senior,UPI,7,20,1.0
+T0116,2026-02-03,13:06, r3 ,Central Station,Airport Road,Bus,Daily Pass,Cash,76,10,5.0
+T0117,2026-01-14,08:24,R4,Railway Colony,University,BRTS,Student,UPI,27,5,
+T0118,2026-01-02,04:34,R1,,Riverfront,Bus,Daily Pass,Cash,10,35,5.0
+T0119,2026-01-09,10:31,R3,Riverfront,Central Station,BRTS,Daily Pass,Card,24,15,4.0
+T0120,2026-01-16,00:36,R2,University,Market Road,Bus,Senior,Card,85,20,3.0
+T0121,2026-01-14,12:54,R1,Central Station,Market Road,Bus,Regular,UPI,81,30,4.0
+T0122,2026-01-21,07:51,R4,University,Market Road,BRTS,Regular,Pass,52,25,5.0
+T0123,2026-01-11,09:45,R5,University,Riverfront,BRTS,Senior,UPI,52,25,5.0
+T0124,2026-01-08,15:09,R3,University,Civil Hospital,Bus,Student,UPI,34,20,5.0
+T0125,2026-02-10,01:13,R4,University,Bus Depot,Bus,Regular,UPI,32,30,4.0
+T0126,2026-02-04,16:03,R4,University,Bus Depot,Bus,Student,UPI,37,35,5.0
+T0127,2026-01-28,07:07, r5 ,Central Station,University,BRTS,Daily Pass,Pass,47,25,3.0
+T0128,2026-01-16,22:17,R3,Bus Depot,Riverfront,BRTS,Senior,Cash,44,10,5.0
+T0129,2026-01-05,19:51,R4,Central Station,University,Bus,Regular,,22,20,5.0
+T0130,2026-01-25,14:15,R5,Riverfront,Airport Road,Bus,Regular,Pass,32,35,5.0
+T0131,2026-01-07,19:09,R1,Civil Hospital,Central Station,Bus,Student,UPI,64,15,4.0
+T0132,2026-01-20,10:48,R5,University,Market Road,Bus,Senior,Cash,70,40,
+T0133,2026-01-26,03:51,R1,Market Road,Riverfront,Bus,Student,Card,84,40,5.0
+T0134,2026-01-27,04:46,R3,Bus Depot,Railway Colony,BRTS,Regular,Cash,95,20,5.0
+T0135,2026-02-04,19:59,R5,Bus Depot,Riverfront,BRTS,Daily Pass,UPI,59,40,4.0
+T0136,2026-01-26,14:45,R4,University,Airport Road,Bus,Senior,Card,44,10,5.0
+T0137,2026-01-18,18:08,R5,Civil Hospital,Railway Colony,BRTS,Daily Pass,UPI,80,15,5.0
+T0138,2026-01-26,10:21,R5,University,Airport Road,BRTS,Senior,Cash,23,20,1.0
+T0139,2026-01-11,08:36,R3,Bus Depot,Market Road,BRTS,Student,Pass,33,35,4.0
+T0140,2026-01-06,04:04,R3,University,Central Station,Bus,Daily Pass,Cash,unknown,10,1.0
+T0141,2026-01-10,02:04,R2,Civil Hospital,University,BRTS,Senior,Pass,77,15,2.0
+T0142,2026-01-20,13:18,R5,Civil Hospital,Market Road,BRTS,Regular,Card,44,35,1.0
+T0143,2026-01-21,14:29,R5,Market Road,Central Station,BRTS,Regular,Cash,39,10,2.0
+T0144,2026-01-06,06:54,R5,Airport Road,Civil Hospital,BRTS,Student,UPI,62,30,3.0
+T0145,2026-01-18,05:37,R1,Market Road,Railway Colony,BRTS,Regular,Pass,66,10,3.0
+T0146,2026-02-04,16:16,R4,Market Road,Riverfront,BRTS,Senior,Card,13,20,4.0
+T0147,2026-01-18,11:36,R5,Market Road,University,Bus,Senior,UPI,23,15,4.0
+T0148,2026-01-24,20:28,R5,Market Road,Airport Road,BRTS,Senior,Pass,27,5,3.0
+T0149,2026-01-08,06:38,R3,Airport Road,University,BRTS,Student,Card,83,20,5.0
+T0150,2026-01-31,13:47,R2,Railway Colony,Civil Hospital,Bus,Daily Pass,UPI,13,35,2.0
+T0013,2026-02-06,23:31,R1,Bus Depot,Railway Colony,Bus,Student,UPI,15,25,4.0
+T0046,2026-01-04,06:27,R2,Bus Depot,Central Station,BRTS,Daily Pass,Cash,16,30,5.0
+T0090,2026-01-18,23:36, r4 ,Civil Hospital,Airport Road,BRTS,Student,UPI,87,25,2.0
